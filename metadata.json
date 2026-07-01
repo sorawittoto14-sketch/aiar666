@@ -1,0 +1,6 @@
+{
+  "name": "Electronic Circuit Verifier",
+  "description": "A web application for verifying electronic circuit connections, with step-by-step guides, QR troubleshooting codes, and interactive AR display placeholders.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
